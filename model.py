@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 
 # Load dataset
-data = pd.read_csv("dataset.csv")
+data = pd.read_csv("database.csv")
 
 # Convert result to numbers
 data["result"] = data["result"].map({"fail": 0, "pass": 1})
