@@ -29,6 +29,5 @@ Enter previous exam score: 55
 
 Prediction: PASS
 
-
 This project predicts result on the basis of Study hours per day, Attendance percentage and
  Previous exam score
